@@ -251,19 +251,7 @@ It is especially useful for:
 - Beginners understanding SQL execution order
 - Developers debugging complex SQL queries
 
----
 
-## 🤝 Contributions
-
-Contributions, suggestions, and improvements are welcome.
-
-Feel free to fork the repository and submit a pull request.
-
----
-
-## 👩‍💻 Author
-
-**Tanvi Chillal**
 
 Full Stack Developer | AI & Backend Enthusiast
 
