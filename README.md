@@ -244,17 +244,4 @@ http://localhost:8000
 
 The goal of QueryFlow is to make SQL execution easier to understand through interactive visualization.
 
-It is especially useful for:
 
-- Students learning SQL
-- Developers preparing for technical interviews
-- Beginners understanding SQL execution order
-- Developers debugging complex SQL queries
-
-
-
-Full Stack Developer | AI & Backend Enthusiast
-
----
-
-⭐ If you find QueryFlow useful, consider starring the repository.
